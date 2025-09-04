@@ -1,0 +1,28 @@
+11:55:42.764 INFO  manager.ApplicationManager -- All tests runs in Chrome Browser
+11:55:42.764 INFO  manager.ApplicationManager -- All tests runs in Chrome Browser
+11:55:43.395 INFO  manager.ApplicationManager -- The link --->https://telranedu.web.app/home
+11:55:43.401 INFO  manager.TestNGListener -- Start testing on date -->Thu Sep 04 11:55:43 IDT 2025
+11:55:48.439 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+11:55:48.463 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+11:55:48.476 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+11:55:48.538 INFO  manager.ListenerWD -- After click element---> aLOGIN
+11:55:48.538 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+11:55:48.538 INFO  manager.ListenerWD -- Before find element -->By.name: email
+11:55:48.553 INFO  manager.ListenerWD -- After find element -->By.name: email
+11:55:48.558 INFO  manager.ListenerWD -- Before click element---> input
+11:55:48.605 INFO  manager.ListenerWD -- After click element---> input
+11:55:48.648 INFO  manager.ListenerWD -- sendKeys-->input
+11:55:48.672 INFO  manager.ListenerWD -- sendKeys-->input
+11:55:48.703 INFO  manager.ListenerWD -- sendKeys-->input
+11:55:48.703 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+11:55:48.711 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+11:55:48.711 INFO  manager.ListenerWD -- Before click element---> input
+11:55:48.760 INFO  manager.ListenerWD -- After click element---> input
+11:55:48.794 INFO  manager.ListenerWD -- sendKeys-->input
+11:55:48.814 INFO  manager.ListenerWD -- sendKeys-->input
+11:55:48.840 INFO  manager.ListenerWD -- sendKeys-->input
+11:55:48.840 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+11:55:48.854 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+11:55:48.856 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+11:55:48.905 INFO  manager.TestNGListener -- Skipped test --->addContactTestAllFieldsCSV
+11:55:48.910 INFO  manager.TestNGListener -- End testing on date -->Thu Sep 04 11:55:48 IDT 2025

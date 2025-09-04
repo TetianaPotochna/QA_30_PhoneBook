@@ -1,0 +1,1863 @@
+12:01:23.861 INFO  manager.ApplicationManager -- All tests runs in Chrome Browser
+12:01:23.861 INFO  manager.ApplicationManager -- All tests runs in Chrome Browser
+12:01:24.488 INFO  manager.ApplicationManager -- The link --->https://telranedu.web.app/home
+12:01:24.494 INFO  manager.TestNGListener -- Start testing on date -->Thu Sep 04 12:01:24 IDT 2025
+12:01:29.527 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:29.553 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:29.565 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:29.616 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:29.616 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:29.616 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:29.629 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:29.637 INFO  manager.ListenerWD -- Before click element---> input
+12:01:29.688 INFO  manager.ListenerWD -- After click element---> input
+12:01:29.729 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:29.749 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:29.776 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:29.778 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:29.784 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:29.784 INFO  manager.ListenerWD -- Before click element---> input
+12:01:29.832 INFO  manager.ListenerWD -- After click element---> input
+12:01:29.862 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:29.884 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:29.906 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:29.907 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:29.915 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:29.922 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:29.971 INFO  tests.TestBase -- Name of method-->addContactTestAllFields
+12:01:29.971 INFO  manager.TestNGListener -- Start test --->addContactTestAllFields
+12:01:29.971 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFields(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:29.978 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:30.887 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:30.893 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:30.937 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:30.937 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:30.949 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:30.958 INFO  manager.ListenerWD -- Before click element---> input
+12:01:30.992 INFO  manager.ListenerWD -- After click element---> input
+12:01:31.027 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.047 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.068 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.069 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:31.075 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:31.085 INFO  manager.ListenerWD -- Before click element---> input
+12:01:31.117 INFO  manager.ListenerWD -- After click element---> input
+12:01:31.149 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.168 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.189 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.189 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:31.200 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:31.202 INFO  manager.ListenerWD -- Before click element---> input
+12:01:31.238 INFO  manager.ListenerWD -- After click element---> input
+12:01:31.268 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.287 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.308 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.308 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:31.318 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:31.324 INFO  manager.ListenerWD -- Before click element---> input
+12:01:31.359 INFO  manager.ListenerWD -- After click element---> input
+12:01:31.388 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.408 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.431 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.432 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:31.441 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:31.449 INFO  manager.ListenerWD -- Before click element---> input
+12:01:31.485 INFO  manager.ListenerWD -- After click element---> input
+12:01:31.519 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.540 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.561 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.561 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:31.570 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:31.574 INFO  manager.ListenerWD -- Before click element---> input
+12:01:31.609 INFO  manager.ListenerWD -- After click element---> input
+12:01:31.640 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.658 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.679 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:31.838 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:31.861 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:31.861 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:31.901 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:32.565 INFO  manager.TestNGListener -- Success test --->addContactTestAllFields
+12:01:32.565 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFields(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:32.565 INFO  tests.TestBase -- ===============================================
+12:01:32.565 INFO  tests.TestBase -- Name of method-->addContactTestAllFields
+12:01:32.565 INFO  manager.TestNGListener -- Start test --->addContactTestAllFields
+12:01:32.565 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFields(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:32.565 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:32.577 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:32.581 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:32.618 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:32.618 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:32.624 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:32.630 INFO  manager.ListenerWD -- Before click element---> input
+12:01:32.662 INFO  manager.ListenerWD -- After click element---> input
+12:01:32.692 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.706 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.727 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.727 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:32.738 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:32.746 INFO  manager.ListenerWD -- Before click element---> input
+12:01:32.778 INFO  manager.ListenerWD -- After click element---> input
+12:01:32.809 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.827 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.847 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.847 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:32.854 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:32.859 INFO  manager.ListenerWD -- Before click element---> input
+12:01:32.890 INFO  manager.ListenerWD -- After click element---> input
+12:01:32.920 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.941 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.963 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:32.963 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:32.974 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:32.982 INFO  manager.ListenerWD -- Before click element---> input
+12:01:33.014 INFO  manager.ListenerWD -- After click element---> input
+12:01:33.042 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:33.060 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:33.089 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:33.090 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:33.095 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:33.095 INFO  manager.ListenerWD -- Before click element---> input
+12:01:33.130 INFO  manager.ListenerWD -- After click element---> input
+12:01:33.157 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:33.171 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:33.192 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:33.192 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:33.202 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:33.209 INFO  manager.ListenerWD -- Before click element---> input
+12:01:33.239 INFO  manager.ListenerWD -- After click element---> input
+12:01:33.267 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:33.285 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:33.436 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:33.436 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:33.451 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:33.485 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:33.964 INFO  manager.TestNGListener -- Success test --->addContactTestAllFields
+12:01:33.964 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFields(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:33.964 INFO  tests.TestBase -- ===============================================
+12:01:33.964 INFO  tests.TestBase -- Name of method-->addContactTestAllFieldsCSV
+12:01:33.964 INFO  manager.TestNGListener -- Start test --->addContactTestAllFieldsCSV
+12:01:33.964 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:33.964 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:33.981 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:33.986 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:34.036 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:34.036 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:34.044 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:34.051 INFO  manager.ListenerWD -- Before click element---> input
+12:01:34.096 INFO  manager.ListenerWD -- After click element---> input
+12:01:34.130 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.150 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.173 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.174 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:34.180 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:34.185 INFO  manager.ListenerWD -- Before click element---> input
+12:01:34.224 INFO  manager.ListenerWD -- After click element---> input
+12:01:34.253 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.268 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.289 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.296 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:34.303 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:34.310 INFO  manager.ListenerWD -- Before click element---> input
+12:01:34.346 INFO  manager.ListenerWD -- After click element---> input
+12:01:34.379 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.401 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.422 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.422 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:34.428 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:34.434 INFO  manager.ListenerWD -- Before click element---> input
+12:01:34.464 INFO  manager.ListenerWD -- After click element---> input
+12:01:34.497 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.511 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.532 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.532 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:34.543 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:34.550 INFO  manager.ListenerWD -- Before click element---> input
+12:01:34.588 INFO  manager.ListenerWD -- After click element---> input
+12:01:34.620 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.637 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.650 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.650 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:34.661 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:34.667 INFO  manager.ListenerWD -- Before click element---> input
+12:01:34.697 INFO  manager.ListenerWD -- After click element---> input
+12:01:34.725 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.743 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.768 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:34.942 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:34.942 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:34.958 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:34.990 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:35.472 INFO  manager.TestNGListener -- Success test --->addContactTestAllFieldsCSV
+12:01:35.472 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:35.472 INFO  tests.TestBase -- ===============================================
+12:01:35.472 INFO  tests.TestBase -- Name of method-->addContactTestAllFieldsCSV
+12:01:35.472 INFO  manager.TestNGListener -- Start test --->addContactTestAllFieldsCSV
+12:01:35.472 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:35.472 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:35.472 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:35.488 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:35.531 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:35.531 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:35.537 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:35.544 INFO  manager.ListenerWD -- Before click element---> input
+12:01:35.577 INFO  manager.ListenerWD -- After click element---> input
+12:01:35.607 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.626 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.649 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.649 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:35.654 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:35.656 INFO  manager.ListenerWD -- Before click element---> input
+12:01:35.695 INFO  manager.ListenerWD -- After click element---> input
+12:01:35.726 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.744 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.761 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.761 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:35.770 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:35.777 INFO  manager.ListenerWD -- Before click element---> input
+12:01:35.813 INFO  manager.ListenerWD -- After click element---> input
+12:01:35.844 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.864 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.886 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.886 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:35.896 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:35.903 INFO  manager.ListenerWD -- Before click element---> input
+12:01:35.933 INFO  manager.ListenerWD -- After click element---> input
+12:01:35.960 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.976 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.997 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:35.997 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:36.005 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:36.011 INFO  manager.ListenerWD -- Before click element---> input
+12:01:36.044 INFO  manager.ListenerWD -- After click element---> input
+12:01:36.074 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:36.087 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:36.108 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:36.108 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:36.114 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:36.120 INFO  manager.ListenerWD -- Before click element---> input
+12:01:36.153 INFO  manager.ListenerWD -- After click element---> input
+12:01:36.182 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:36.200 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:36.219 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:36.372 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:36.372 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:36.392 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:36.424 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:36.901 INFO  manager.TestNGListener -- Success test --->addContactTestAllFieldsCSV
+12:01:36.901 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:36.901 INFO  tests.TestBase -- ===============================================
+12:01:36.901 INFO  tests.TestBase -- Name of method-->addContactTestAllFieldsCSV
+12:01:36.901 INFO  manager.TestNGListener -- Start test --->addContactTestAllFieldsCSV
+12:01:36.901 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:36.901 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:36.901 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:36.917 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:36.950 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:36.950 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:36.955 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:36.961 INFO  manager.ListenerWD -- Before click element---> input
+12:01:36.991 INFO  manager.ListenerWD -- After click element---> input
+12:01:37.019 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.034 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.052 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.052 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:37.059 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:37.064 INFO  manager.ListenerWD -- Before click element---> input
+12:01:37.092 INFO  manager.ListenerWD -- After click element---> input
+12:01:37.119 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.136 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.149 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.149 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:37.160 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:37.166 INFO  manager.ListenerWD -- Before click element---> input
+12:01:37.196 INFO  manager.ListenerWD -- After click element---> input
+12:01:37.220 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.242 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.260 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.260 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:37.268 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:37.274 INFO  manager.ListenerWD -- Before click element---> input
+12:01:37.304 INFO  manager.ListenerWD -- After click element---> input
+12:01:37.330 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.344 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.371 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.371 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:37.377 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:37.384 INFO  manager.ListenerWD -- Before click element---> input
+12:01:37.414 INFO  manager.ListenerWD -- After click element---> input
+12:01:37.441 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.455 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.476 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.476 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:37.482 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:37.488 INFO  manager.ListenerWD -- Before click element---> input
+12:01:37.510 INFO  manager.ListenerWD -- After click element---> input
+12:01:37.544 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.561 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.573 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:37.740 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:37.740 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:37.740 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:37.785 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:38.278 INFO  manager.TestNGListener -- Success test --->addContactTestAllFieldsCSV
+12:01:38.278 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:38.278 INFO  tests.TestBase -- ===============================================
+12:01:38.278 INFO  tests.TestBase -- Name of method-->addContactTestReqFields
+12:01:38.278 INFO  manager.TestNGListener -- Start test --->addContactTestReqFields
+12:01:38.278 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestReqFields()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:38.278 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:38.278 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:38.298 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:38.330 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:38.330 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:38.336 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:38.341 INFO  manager.ListenerWD -- Before click element---> input
+12:01:38.371 INFO  manager.ListenerWD -- After click element---> input
+12:01:38.398 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.414 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.433 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.433 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:38.438 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:38.444 INFO  manager.ListenerWD -- Before click element---> input
+12:01:38.472 INFO  manager.ListenerWD -- After click element---> input
+12:01:38.499 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.510 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.531 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.531 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:38.538 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:38.544 INFO  manager.ListenerWD -- Before click element---> input
+12:01:38.567 INFO  manager.ListenerWD -- After click element---> input
+12:01:38.593 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.614 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.635 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.635 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:38.640 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:38.647 INFO  manager.ListenerWD -- Before click element---> input
+12:01:38.677 INFO  manager.ListenerWD -- After click element---> input
+12:01:38.698 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.718 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.739 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.739 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:38.748 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:38.753 INFO  manager.ListenerWD -- Before click element---> input
+12:01:38.780 INFO  manager.ListenerWD -- After click element---> input
+12:01:38.806 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.823 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.841 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.841 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:38.846 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:38.850 INFO  manager.ListenerWD -- Before click element---> input
+12:01:38.881 INFO  manager.ListenerWD -- After click element---> input
+12:01:38.908 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.919 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:38.919 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:38.929 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:38.936 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:38.962 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:39.475 INFO  manager.TestNGListener -- Success test --->addContactTestReqFields
+12:01:39.475 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestReqFields()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:39.475 INFO  tests.TestBase -- ===============================================
+12:01:39.475 INFO  tests.TestBase -- Name of method-->addContactTestWrongAddress
+12:01:39.475 INFO  manager.TestNGListener -- Start test --->addContactTestWrongAddress
+12:01:39.475 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongAddress()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:39.475 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:39.490 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:39.491 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:39.541 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:39.541 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:39.547 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:39.551 INFO  manager.ListenerWD -- Before click element---> input
+12:01:39.590 INFO  manager.ListenerWD -- After click element---> input
+12:01:39.621 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.637 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.656 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.656 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:39.661 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:39.667 INFO  manager.ListenerWD -- Before click element---> input
+12:01:39.694 INFO  manager.ListenerWD -- After click element---> input
+12:01:39.720 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.737 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.753 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.753 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:39.759 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:39.764 INFO  manager.ListenerWD -- Before click element---> input
+12:01:39.791 INFO  manager.ListenerWD -- After click element---> input
+12:01:39.819 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.835 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.850 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.850 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:39.858 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:39.864 INFO  manager.ListenerWD -- Before click element---> input
+12:01:39.890 INFO  manager.ListenerWD -- After click element---> input
+12:01:39.912 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.932 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.955 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:39.955 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:39.960 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:39.966 INFO  manager.ListenerWD -- Before click element---> input
+12:01:39.994 INFO  manager.ListenerWD -- After click element---> input
+12:01:40.016 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.037 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.053 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.053 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:40.058 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:40.058 INFO  manager.ListenerWD -- Before click element---> input
+12:01:40.092 INFO  manager.ListenerWD -- After click element---> input
+12:01:40.119 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.135 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.156 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.156 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:40.161 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:40.166 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:40.192 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:40.200 INFO  manager.TestNGListener -- Success test --->addContactTestWrongAddress
+12:01:40.200 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongAddress()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:40.200 INFO  tests.TestBase -- ===============================================
+12:01:40.201 INFO  tests.TestBase -- Name of method-->addContactTestWrongEmail
+12:01:40.201 INFO  manager.TestNGListener -- Start test --->addContactTestWrongEmail
+12:01:40.201 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongEmail()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:40.201 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:40.206 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:40.209 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:40.243 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:40.243 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:40.248 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:40.252 INFO  manager.ListenerWD -- Before click element---> input
+12:01:40.287 INFO  manager.ListenerWD -- After click element---> input
+12:01:40.322 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.343 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.357 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.357 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:40.367 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:40.372 INFO  manager.ListenerWD -- Before click element---> input
+12:01:40.400 INFO  manager.ListenerWD -- After click element---> input
+12:01:40.433 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.450 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.467 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.467 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:40.472 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:40.478 INFO  manager.ListenerWD -- Before click element---> input
+12:01:40.507 INFO  manager.ListenerWD -- After click element---> input
+12:01:40.546 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.558 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.585 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.585 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:40.590 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:40.592 INFO  manager.ListenerWD -- Before click element---> input
+12:01:40.628 INFO  manager.ListenerWD -- After click element---> input
+12:01:40.655 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.676 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.696 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.697 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:40.702 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:40.708 INFO  manager.ListenerWD -- Before click element---> input
+12:01:40.736 INFO  manager.ListenerWD -- After click element---> input
+12:01:40.763 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.780 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.794 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.794 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:40.802 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:40.809 INFO  manager.ListenerWD -- Before click element---> input
+12:01:40.835 INFO  manager.ListenerWD -- After click element---> input
+12:01:40.863 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.884 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.912 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:40.913 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:40.918 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:40.924 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:40.952 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:40.964 INFO  manager.ListenerWD -- Huston we have a problem!
+12:01:40.964 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@55053f81
+12:01:40.964 INFO  manager.ListenerWD -- *************************
+12:01:40.964 INFO  manager.ListenerWD -- Method name -->alert
+12:01:40.964 INFO  manager.ListenerWD -- *************************
+12:01:40.964 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:01:40.964 INFO  manager.ListenerWD -- *************************
+12:01:41.485 INFO  manager.TestNGListener -- Success test --->addContactTestWrongEmail
+12:01:41.485 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongEmail()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:41.485 INFO  tests.TestBase -- ===============================================
+12:01:41.485 INFO  tests.TestBase -- Name of method-->addContactTestWrongLastName
+12:01:41.485 INFO  manager.TestNGListener -- Start test --->addContactTestWrongLastName
+12:01:41.485 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongLastName()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:41.485 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:41.493 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:41.495 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:41.532 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:41.532 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:41.538 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:41.544 INFO  manager.ListenerWD -- Before click element---> input
+12:01:41.575 INFO  manager.ListenerWD -- After click element---> input
+12:01:41.615 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.628 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.649 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.649 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:41.656 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:41.662 INFO  manager.ListenerWD -- Before click element---> input
+12:01:41.691 INFO  manager.ListenerWD -- After click element---> input
+12:01:41.724 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.742 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.752 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.752 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:41.752 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:41.752 INFO  manager.ListenerWD -- Before click element---> input
+12:01:41.794 INFO  manager.ListenerWD -- After click element---> input
+12:01:41.828 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.842 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.864 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.864 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:41.864 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:41.875 INFO  manager.ListenerWD -- Before click element---> input
+12:01:41.902 INFO  manager.ListenerWD -- After click element---> input
+12:01:41.933 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.953 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.974 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:41.974 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:41.979 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:41.985 INFO  manager.ListenerWD -- Before click element---> input
+12:01:42.011 INFO  manager.ListenerWD -- After click element---> input
+12:01:42.043 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.057 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.078 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.078 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:42.085 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:42.091 INFO  manager.ListenerWD -- Before click element---> input
+12:01:42.119 INFO  manager.ListenerWD -- After click element---> input
+12:01:42.148 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.168 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.189 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.189 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:42.194 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:42.199 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:42.224 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:42.229 INFO  manager.TestNGListener -- Success test --->addContactTestWrongLastName
+12:01:42.229 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongLastName()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:42.229 INFO  tests.TestBase -- ===============================================
+12:01:42.230 INFO  tests.TestBase -- Name of method-->addContactTestWrongName
+12:01:42.230 INFO  manager.TestNGListener -- Start test --->addContactTestWrongName
+12:01:42.230 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongName()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:42.230 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:42.235 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:42.240 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:42.269 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:42.269 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:42.274 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:42.279 INFO  manager.ListenerWD -- Before click element---> input
+12:01:42.308 INFO  manager.ListenerWD -- After click element---> input
+12:01:42.342 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.356 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.373 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.373 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:42.377 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:42.377 INFO  manager.ListenerWD -- Before click element---> input
+12:01:42.413 INFO  manager.ListenerWD -- After click element---> input
+12:01:42.449 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.469 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.481 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.488 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:42.493 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:42.499 INFO  manager.ListenerWD -- Before click element---> input
+12:01:42.526 INFO  manager.ListenerWD -- After click element---> input
+12:01:42.557 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.577 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.600 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.601 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:42.606 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:42.612 INFO  manager.ListenerWD -- Before click element---> input
+12:01:42.642 INFO  manager.ListenerWD -- After click element---> input
+12:01:42.677 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.689 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.710 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.710 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:42.719 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:42.725 INFO  manager.ListenerWD -- Before click element---> input
+12:01:42.753 INFO  manager.ListenerWD -- After click element---> input
+12:01:42.787 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.800 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.825 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.825 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:42.831 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:42.835 INFO  manager.ListenerWD -- Before click element---> input
+12:01:42.865 INFO  manager.ListenerWD -- After click element---> input
+12:01:42.897 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.915 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.932 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:42.932 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:42.939 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:42.945 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:42.969 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:42.974 INFO  manager.TestNGListener -- Success test --->addContactTestWrongName
+12:01:42.974 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongName()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:42.974 INFO  tests.TestBase -- ===============================================
+12:01:42.974 INFO  tests.TestBase -- Name of method-->addContactTestWrongPhone
+12:01:42.974 INFO  manager.TestNGListener -- Start test --->addContactTestWrongPhone
+12:01:42.975 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:42.975 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:42.980 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:42.980 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:43.013 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:43.013 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:43.019 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:43.025 INFO  manager.ListenerWD -- Before click element---> input
+12:01:43.053 INFO  manager.ListenerWD -- After click element---> input
+12:01:43.079 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.092 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.113 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.113 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:43.118 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:43.123 INFO  manager.ListenerWD -- Before click element---> input
+12:01:43.150 INFO  manager.ListenerWD -- After click element---> input
+12:01:43.182 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.200 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.218 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.218 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:43.222 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:43.229 INFO  manager.ListenerWD -- Before click element---> input
+12:01:43.257 INFO  manager.ListenerWD -- After click element---> input
+12:01:43.286 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.307 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.324 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.324 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:43.329 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:43.335 INFO  manager.ListenerWD -- Before click element---> input
+12:01:43.362 INFO  manager.ListenerWD -- After click element---> input
+12:01:43.391 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.411 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.432 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.432 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:43.438 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:43.444 INFO  manager.ListenerWD -- Before click element---> input
+12:01:43.472 INFO  manager.ListenerWD -- After click element---> input
+12:01:43.501 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.522 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.540 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.540 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:43.546 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:43.551 INFO  manager.ListenerWD -- Before click element---> input
+12:01:43.578 INFO  manager.ListenerWD -- After click element---> input
+12:01:43.606 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.626 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.640 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:43.640 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:43.651 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:43.657 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:43.682 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:43.690 INFO  manager.ListenerWD -- Huston we have a problem!
+12:01:43.690 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@49bb808f
+12:01:43.690 INFO  manager.ListenerWD -- *************************
+12:01:43.690 INFO  manager.ListenerWD -- Method name -->alert
+12:01:43.690 INFO  manager.ListenerWD -- *************************
+12:01:43.690 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:01:43.690 INFO  manager.ListenerWD -- *************************
+12:01:44.205 INFO  manager.TestNGListener -- Success test --->addContactTestWrongPhone
+12:01:44.205 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:44.205 INFO  tests.TestBase -- ===============================================
+12:01:44.205 INFO  tests.TestBase -- Name of method-->addContactTestWrongPhone
+12:01:44.205 INFO  manager.TestNGListener -- Start test --->addContactTestWrongPhone
+12:01:44.206 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:44.206 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:44.213 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:44.219 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:44.249 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:44.249 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:44.256 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:44.258 INFO  manager.ListenerWD -- Before click element---> input
+12:01:44.294 INFO  manager.ListenerWD -- After click element---> input
+12:01:44.328 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.348 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.370 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.370 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:44.379 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:44.383 INFO  manager.ListenerWD -- Before click element---> input
+12:01:44.411 INFO  manager.ListenerWD -- After click element---> input
+12:01:44.446 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.464 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.480 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.480 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:44.488 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:44.494 INFO  manager.ListenerWD -- Before click element---> input
+12:01:44.521 INFO  manager.ListenerWD -- After click element---> input
+12:01:44.550 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.571 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.593 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.593 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:44.598 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:44.604 INFO  manager.ListenerWD -- Before click element---> input
+12:01:44.632 INFO  manager.ListenerWD -- After click element---> input
+12:01:44.668 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.681 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.702 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.702 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:44.709 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:44.718 INFO  manager.ListenerWD -- Before click element---> input
+12:01:44.749 INFO  manager.ListenerWD -- After click element---> input
+12:01:44.779 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.800 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.818 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.818 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:44.823 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:44.827 INFO  manager.ListenerWD -- Before click element---> input
+12:01:44.855 INFO  manager.ListenerWD -- After click element---> input
+12:01:44.888 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.904 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.924 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:44.924 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:44.924 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:44.936 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:44.963 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:44.970 INFO  manager.ListenerWD -- Huston we have a problem!
+12:01:44.970 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1c2cdc67
+12:01:44.970 INFO  manager.ListenerWD -- *************************
+12:01:44.970 INFO  manager.ListenerWD -- Method name -->alert
+12:01:44.970 INFO  manager.ListenerWD -- *************************
+12:01:44.970 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:01:44.970 INFO  manager.ListenerWD -- *************************
+12:01:45.486 INFO  manager.TestNGListener -- Success test --->addContactTestWrongPhone
+12:01:45.486 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:45.486 INFO  tests.TestBase -- ===============================================
+12:01:45.487 INFO  tests.TestBase -- Name of method-->addContactTestWrongPhone
+12:01:45.487 INFO  manager.TestNGListener -- Start test --->addContactTestWrongPhone
+12:01:45.487 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:45.487 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:45.493 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:45.499 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:45.530 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:45.531 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:45.536 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:45.542 INFO  manager.ListenerWD -- Before click element---> input
+12:01:45.573 INFO  manager.ListenerWD -- After click element---> input
+12:01:45.605 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.626 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.644 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.644 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:45.651 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:45.653 INFO  manager.ListenerWD -- Before click element---> input
+12:01:45.685 INFO  manager.ListenerWD -- After click element---> input
+12:01:45.716 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.734 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.751 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.751 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:45.756 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:45.762 INFO  manager.ListenerWD -- Before click element---> input
+12:01:45.791 INFO  manager.ListenerWD -- After click element---> input
+12:01:45.820 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.841 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.861 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.861 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:45.866 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:45.872 INFO  manager.ListenerWD -- Before click element---> input
+12:01:45.900 INFO  manager.ListenerWD -- After click element---> input
+12:01:45.931 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.952 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.973 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:45.973 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:45.978 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:45.985 INFO  manager.ListenerWD -- Before click element---> input
+12:01:46.012 INFO  manager.ListenerWD -- After click element---> input
+12:01:46.044 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.056 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.080 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.080 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:46.085 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:46.090 INFO  manager.ListenerWD -- Before click element---> input
+12:01:46.117 INFO  manager.ListenerWD -- After click element---> input
+12:01:46.146 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.167 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.181 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.181 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:46.191 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:46.197 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:46.222 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:46.230 INFO  manager.ListenerWD -- Huston we have a problem!
+12:01:46.230 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7e94de5f
+12:01:46.230 INFO  manager.ListenerWD -- *************************
+12:01:46.230 INFO  manager.ListenerWD -- Method name -->alert
+12:01:46.230 INFO  manager.ListenerWD -- *************************
+12:01:46.230 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:01:46.230 INFO  manager.ListenerWD -- *************************
+12:01:46.754 INFO  manager.TestNGListener -- Success test --->addContactTestWrongPhone
+12:01:46.754 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:46.754 INFO  tests.TestBase -- ===============================================
+12:01:46.755 INFO  tests.TestBase -- Name of method-->addContactTestWrongPhone
+12:01:46.755 INFO  manager.TestNGListener -- Start test --->addContactTestWrongPhone
+12:01:46.755 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:46.755 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:01:46.761 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:01:46.768 INFO  manager.ListenerWD -- Before click element---> aADD
+12:01:46.801 INFO  manager.ListenerWD -- After click element---> aADD
+12:01:46.801 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:01:46.806 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:01:46.812 INFO  manager.ListenerWD -- Before click element---> input
+12:01:46.842 INFO  manager.ListenerWD -- After click element---> input
+12:01:46.876 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.896 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.911 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:46.911 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:01:46.919 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:01:46.925 INFO  manager.ListenerWD -- Before click element---> input
+12:01:46.954 INFO  manager.ListenerWD -- After click element---> input
+12:01:46.987 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.004 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.021 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.021 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:01:47.026 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:01:47.031 INFO  manager.ListenerWD -- Before click element---> input
+12:01:47.059 INFO  manager.ListenerWD -- After click element---> input
+12:01:47.091 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.104 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.124 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.124 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:01:47.125 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:01:47.125 INFO  manager.ListenerWD -- Before click element---> input
+12:01:47.163 INFO  manager.ListenerWD -- After click element---> input
+12:01:47.195 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.215 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.236 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.236 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:01:47.244 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:01:47.250 INFO  manager.ListenerWD -- Before click element---> input
+12:01:47.278 INFO  manager.ListenerWD -- After click element---> input
+12:01:47.306 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.326 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.340 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.340 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:01:47.349 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:01:47.354 INFO  manager.ListenerWD -- Before click element---> input
+12:01:47.382 INFO  manager.ListenerWD -- After click element---> input
+12:01:47.416 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.431 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.451 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:47.451 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:01:47.456 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:01:47.461 INFO  manager.ListenerWD -- Before click element---> bSave
+12:01:47.487 INFO  manager.ListenerWD -- After click element---> bSave
+12:01:47.494 INFO  manager.ListenerWD -- Huston we have a problem!
+12:01:47.494 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7e1fb22c
+12:01:47.494 INFO  manager.ListenerWD -- *************************
+12:01:47.494 INFO  manager.ListenerWD -- Method name -->alert
+12:01:47.494 INFO  manager.ListenerWD -- *************************
+12:01:47.494 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:01:47.494 INFO  manager.ListenerWD -- *************************
+12:01:48.006 INFO  manager.TestNGListener -- Success test --->addContactTestWrongPhone
+12:01:48.007 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+12:01:48.007 INFO  tests.TestBase -- ===============================================
+12:01:48.008 INFO  tests.TestBase -- Name of method-->loginSuccess
+12:01:48.017 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:48.026 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:48.034 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:48.073 INFO  tests.TestBase -- Before method finished logout
+12:01:48.073 INFO  manager.TestNGListener -- Start test --->loginSuccess
+12:01:48.073 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:48.073 INFO  tests.TestBase -- Start test with name 'loginSuccess'
+12:01:48.073 INFO  tests.TestBase -- Test data --->email: margo@gmail.com& password: Mmar123456$
+12:01:48.073 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:48.082 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:48.089 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:48.123 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:48.123 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:48.123 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:48.131 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:48.137 INFO  manager.ListenerWD -- Before click element---> input
+12:01:48.177 INFO  manager.ListenerWD -- After click element---> input
+12:01:48.206 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.221 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.241 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.241 INFO  manager.HelperBase -- type in input with locator By.name("email")
+12:01:48.241 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:48.252 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:48.259 INFO  manager.ListenerWD -- Before click element---> input
+12:01:48.295 INFO  manager.ListenerWD -- After click element---> input
+12:01:48.323 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.339 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.360 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.360 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:48.367 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:48.372 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:48.705 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:48.705 INFO  manager.TestNGListener -- Success test --->loginSuccess
+12:01:48.705 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:48.707 INFO  tests.TestBase -- ===============================================
+12:01:48.707 INFO  tests.TestBase -- Name of method-->loginSuccess
+12:01:48.717 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:48.717 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:48.728 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:48.768 INFO  tests.TestBase -- Before method finished logout
+12:01:48.768 INFO  manager.TestNGListener -- Start test --->loginSuccess
+12:01:48.768 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:48.768 INFO  tests.TestBase -- Start test with name 'loginSuccess'
+12:01:48.768 INFO  tests.TestBase -- Test data --->email: sonya@gmail.com& password: Ss12345$
+12:01:48.768 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:48.774 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:48.780 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:48.808 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:48.808 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:48.808 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:48.812 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:48.817 INFO  manager.ListenerWD -- Before click element---> input
+12:01:48.851 INFO  manager.ListenerWD -- After click element---> input
+12:01:48.865 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.894 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.914 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:48.914 INFO  manager.HelperBase -- type in input with locator By.name("email")
+12:01:48.914 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:48.918 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:48.924 INFO  manager.ListenerWD -- Before click element---> input
+12:01:48.961 INFO  manager.ListenerWD -- After click element---> input
+12:01:48.991 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.003 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.024 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.024 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:49.033 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:49.038 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:49.375 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:49.375 INFO  manager.TestNGListener -- Success test --->loginSuccess
+12:01:49.375 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:49.375 INFO  tests.TestBase -- ===============================================
+12:01:49.375 INFO  tests.TestBase -- Name of method-->loginSuccess
+12:01:49.381 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:49.386 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:49.394 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:49.426 INFO  tests.TestBase -- Before method finished logout
+12:01:49.426 INFO  manager.TestNGListener -- Start test --->loginSuccess
+12:01:49.426 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:49.426 INFO  tests.TestBase -- Start test with name 'loginSuccess'
+12:01:49.426 INFO  tests.TestBase -- Test data --->email: margo@gmail.com& password: Mmar123456$
+12:01:49.426 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:49.431 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:49.437 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:49.464 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:49.464 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:49.464 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:49.468 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:49.474 INFO  manager.ListenerWD -- Before click element---> input
+12:01:49.511 INFO  manager.ListenerWD -- After click element---> input
+12:01:49.541 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.560 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.580 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.580 INFO  manager.HelperBase -- type in input with locator By.name("email")
+12:01:49.580 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:49.588 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:49.594 INFO  manager.ListenerWD -- Before click element---> input
+12:01:49.632 INFO  manager.ListenerWD -- After click element---> input
+12:01:49.658 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.670 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.691 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:49.691 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:49.698 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:49.705 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:50.036 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:50.036 INFO  manager.TestNGListener -- Success test --->loginSuccess
+12:01:50.036 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:50.036 INFO  tests.TestBase -- ===============================================
+12:01:50.036 INFO  tests.TestBase -- Name of method-->loginSuccess
+12:01:50.043 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:50.043 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:50.049 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:50.081 INFO  tests.TestBase -- Before method finished logout
+12:01:50.081 INFO  manager.TestNGListener -- Start test --->loginSuccess
+12:01:50.081 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:50.082 INFO  tests.TestBase -- Start test with name 'loginSuccess'
+12:01:50.082 INFO  tests.TestBase -- Test data --->email: sonya@gmail.com& password: Ss12345$
+12:01:50.082 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:50.087 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:50.093 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:50.119 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:50.119 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:50.120 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:50.125 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:50.129 INFO  manager.ListenerWD -- Before click element---> input
+12:01:50.165 INFO  manager.ListenerWD -- After click element---> input
+12:01:50.193 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.210 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.226 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.226 INFO  manager.HelperBase -- type in input with locator By.name("email")
+12:01:50.226 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:50.236 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:50.241 INFO  manager.ListenerWD -- Before click element---> input
+12:01:50.277 INFO  manager.ListenerWD -- After click element---> input
+12:01:50.302 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.321 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.340 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.340 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:50.345 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:50.350 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:50.694 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:50.694 INFO  manager.TestNGListener -- Success test --->loginSuccess
+12:01:50.694 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:50.694 INFO  tests.TestBase -- ===============================================
+12:01:50.694 INFO  tests.TestBase -- Name of method-->loginSuccessModel
+12:01:50.694 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:50.701 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:50.701 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:50.737 INFO  tests.TestBase -- Before method finished logout
+12:01:50.737 INFO  manager.TestNGListener -- Start test --->loginSuccessModel
+12:01:50.737 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:50.738 INFO  tests.TestBase -- Test data -->User{email='margo@gmail.com', password='Mmar123456$'}
+12:01:50.738 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:50.743 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:50.749 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:50.777 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:50.777 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:50.777 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:50.781 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:50.787 INFO  manager.ListenerWD -- Before click element---> input
+12:01:50.822 INFO  manager.ListenerWD -- After click element---> input
+12:01:50.849 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.859 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.880 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.880 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:50.890 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:50.895 INFO  manager.ListenerWD -- Before click element---> input
+12:01:50.930 INFO  manager.ListenerWD -- After click element---> input
+12:01:50.956 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.970 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.991 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:50.991 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:50.998 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:51.005 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:51.333 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:51.333 INFO  manager.TestNGListener -- Success test --->loginSuccessModel
+12:01:51.333 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:51.333 INFO  tests.TestBase -- ===============================================
+12:01:51.333 INFO  tests.TestBase -- Name of method-->loginSuccessModel
+12:01:51.333 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:51.341 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:51.341 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:51.377 INFO  tests.TestBase -- Before method finished logout
+12:01:51.377 INFO  manager.TestNGListener -- Start test --->loginSuccessModel
+12:01:51.377 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:51.377 INFO  tests.TestBase -- Test data -->User{email='sonya@gmail.com', password='Ss12345$'}
+12:01:51.377 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:51.382 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:51.389 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:51.417 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:51.417 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:51.417 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:51.422 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:51.427 INFO  manager.ListenerWD -- Before click element---> input
+12:01:51.464 INFO  manager.ListenerWD -- After click element---> input
+12:01:51.493 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:51.509 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:51.529 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:51.529 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:51.540 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:51.546 INFO  manager.ListenerWD -- Before click element---> input
+12:01:51.586 INFO  manager.ListenerWD -- After click element---> input
+12:01:51.612 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:51.626 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:51.647 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:51.647 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:51.651 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:51.658 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:51.987 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:51.987 INFO  manager.TestNGListener -- Success test --->loginSuccessModel
+12:01:51.987 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:51.987 INFO  tests.TestBase -- ===============================================
+12:01:51.987 INFO  tests.TestBase -- Name of method-->loginSuccessModel
+12:01:51.987 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:51.997 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:51.997 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:52.034 INFO  tests.TestBase -- Before method finished logout
+12:01:52.034 INFO  manager.TestNGListener -- Start test --->loginSuccessModel
+12:01:52.034 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:52.034 INFO  tests.TestBase -- Test data -->User{email='margo@gmail.com', password='Mmar123456$'}
+12:01:52.034 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:52.040 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:52.045 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:52.073 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:52.073 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:52.073 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:52.078 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:52.082 INFO  manager.ListenerWD -- Before click element---> input
+12:01:52.117 INFO  manager.ListenerWD -- After click element---> input
+12:01:52.143 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.153 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.174 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.181 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:52.185 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:52.191 INFO  manager.ListenerWD -- Before click element---> input
+12:01:52.226 INFO  manager.ListenerWD -- After click element---> input
+12:01:52.252 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.264 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.285 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.285 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:52.295 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:52.301 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:52.631 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:52.631 INFO  manager.TestNGListener -- Success test --->loginSuccessModel
+12:01:52.631 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:52.631 INFO  tests.TestBase -- ===============================================
+12:01:52.633 INFO  tests.TestBase -- Name of method-->loginSuccessModel
+12:01:52.637 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:52.643 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:52.647 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:52.677 INFO  tests.TestBase -- Before method finished logout
+12:01:52.677 INFO  manager.TestNGListener -- Start test --->loginSuccessModel
+12:01:52.677 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:52.677 INFO  tests.TestBase -- Test data -->User{email='sonya@gmail.com', password='Ss12345$'}
+12:01:52.677 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:52.683 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:52.689 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:52.715 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:52.715 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:52.716 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:52.720 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:52.725 INFO  manager.ListenerWD -- Before click element---> input
+12:01:52.760 INFO  manager.ListenerWD -- After click element---> input
+12:01:52.786 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.799 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.820 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.820 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:52.829 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:52.835 INFO  manager.ListenerWD -- Before click element---> input
+12:01:52.873 INFO  manager.ListenerWD -- After click element---> input
+12:01:52.900 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.918 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.931 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:52.931 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:52.942 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:52.948 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:53.226 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:53.226 INFO  manager.TestNGListener -- Success test --->loginSuccessModel
+12:01:53.226 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:53.226 INFO  tests.TestBase -- ===============================================
+12:01:53.227 INFO  tests.TestBase -- Name of method-->loginSuccessModelDPF
+12:01:53.234 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:53.240 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:53.245 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:53.273 INFO  tests.TestBase -- Before method finished logout
+12:01:53.273 INFO  manager.TestNGListener -- Start test --->loginSuccessModelDPF
+12:01:53.273 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModelDPF(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:53.273 INFO  tests.TestBase -- Test data -->User{email='dusm5@gmail.com', password='Dudu12345@'}
+12:01:53.273 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:53.279 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:53.285 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:53.311 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:53.311 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:53.311 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:53.317 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:53.321 INFO  manager.ListenerWD -- Before click element---> input
+12:01:53.356 INFO  manager.ListenerWD -- After click element---> input
+12:01:53.381 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:53.395 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:53.416 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:53.416 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:53.424 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:53.430 INFO  manager.ListenerWD -- Before click element---> input
+12:01:53.466 INFO  manager.ListenerWD -- After click element---> input
+12:01:53.493 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:53.506 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:53.527 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:53.527 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:53.536 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:53.542 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:53.884 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:53.884 INFO  manager.TestNGListener -- Success test --->loginSuccessModelDPF
+12:01:53.884 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModelDPF(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:53.884 INFO  tests.TestBase -- ===============================================
+12:01:53.884 INFO  tests.TestBase -- Name of method-->loginSuccessModelDPF
+12:01:53.884 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:53.891 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:53.891 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:53.925 INFO  tests.TestBase -- Before method finished logout
+12:01:53.925 INFO  manager.TestNGListener -- Start test --->loginSuccessModelDPF
+12:01:53.925 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModelDPF(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:53.925 INFO  tests.TestBase -- Test data -->User{email='dusm6@gmail.com', password='Tt123456$'}
+12:01:53.925 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:53.934 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:53.941 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:53.978 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:53.978 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:53.978 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:53.984 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:53.987 INFO  manager.ListenerWD -- Before click element---> input
+12:01:54.025 INFO  manager.ListenerWD -- After click element---> input
+12:01:54.050 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.063 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.084 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.084 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:54.091 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:54.098 INFO  manager.ListenerWD -- Before click element---> input
+12:01:54.132 INFO  manager.ListenerWD -- After click element---> input
+12:01:54.160 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.174 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.203 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.203 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:54.208 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:54.214 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:54.548 INFO  tests.TestBase -- Assert check is Element button 'Sign out' present
+12:01:54.548 INFO  manager.TestNGListener -- Success test --->loginSuccessModelDPF
+12:01:54.548 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModelDPF(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:54.548 INFO  tests.TestBase -- ===============================================
+12:01:54.548 INFO  tests.TestBase -- Name of method-->loginUnregisteredUser
+12:01:54.552 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:01:54.556 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:01:54.561 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:01:54.586 INFO  tests.TestBase -- Before method finished logout
+12:01:54.589 INFO  manager.TestNGListener -- Start test --->loginUnregisteredUser
+12:01:54.589 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginUnregisteredUser()[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:54.589 INFO  tests.TestBase -- Test data --->email: 'dusm997@gmail.com' & password: 'Dudu12345@'
+12:01:54.589 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:01:54.598 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:01:54.604 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:01:54.639 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:01:54.639 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:01:54.639 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:01:54.645 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:01:54.651 INFO  manager.ListenerWD -- Before click element---> input
+12:01:54.687 INFO  manager.ListenerWD -- After click element---> input
+12:01:54.714 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.728 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.753 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.753 INFO  manager.HelperBase -- type in input with locator By.name("email")
+12:01:54.753 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:01:54.756 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:01:54.764 INFO  manager.ListenerWD -- Before click element---> input
+12:01:54.799 INFO  manager.ListenerWD -- After click element---> input
+12:01:54.818 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.840 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.853 INFO  manager.ListenerWD -- sendKeys-->input
+12:01:54.853 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:01:54.864 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:01:54.870 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:01:54.897 INFO  manager.ListenerWD -- Huston we have a problem!
+12:01:54.897 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@37b1218
+12:01:54.897 INFO  manager.ListenerWD -- *************************
+12:01:54.897 INFO  manager.ListenerWD -- Method name -->alert
+12:01:54.897 INFO  manager.ListenerWD -- *************************
+12:01:54.897 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:01:54.897 INFO  manager.ListenerWD -- *************************
+12:01:55.411 INFO  tests.TestBase -- Assert check is Alert present with error text 'Wrong email or password'
+12:01:55.411 INFO  manager.TestNGListener -- Success test --->loginUnregisteredUser
+12:01:55.411 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginUnregisteredUser()[pri:0, instance:tests.LoginTests@65a4798f]
+12:01:55.411 INFO  tests.TestBase -- ===============================================
+12:01:55.412 INFO  tests.TestBase -- Name of method-->loginWrongEmail
+12:02:00.448 INFO  manager.TestNGListener -- Start test --->loginWrongEmail
+12:02:00.448 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginWrongEmail()[pri:0, instance:tests.LoginTests@65a4798f]
+12:02:00.448 INFO  tests.TestBase -- Test data --->email: 'dusm5@gmail.com' & password: 'Dudu12345@'
+12:02:00.448 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:02:00.448 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:02:00.460 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:02:00.491 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:02:00.491 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:02:00.491 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:02:00.497 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:02:00.502 INFO  manager.ListenerWD -- Before click element---> input
+12:02:00.532 INFO  manager.ListenerWD -- After click element---> input
+12:02:00.567 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:00.584 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:00.603 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:00.603 INFO  manager.HelperBase -- type in input with locator By.name("email")
+12:02:00.603 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:02:00.609 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:02:00.614 INFO  manager.ListenerWD -- Before click element---> input
+12:02:00.641 INFO  manager.ListenerWD -- After click element---> input
+12:02:00.671 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:00.685 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:00.706 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:00.706 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:02:00.715 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:02:00.720 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:02:00.746 INFO  manager.ListenerWD -- Huston we have a problem!
+12:02:00.746 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@5d10df04
+12:02:00.746 INFO  manager.ListenerWD -- *************************
+12:02:00.746 INFO  manager.ListenerWD -- Method name -->alert
+12:02:00.746 INFO  manager.ListenerWD -- *************************
+12:02:00.746 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:02:00.746 INFO  manager.ListenerWD -- *************************
+12:02:01.256 INFO  tests.TestBase -- Assert check is Alert present with error text 'Wrong email or password'
+12:02:01.257 INFO  manager.TestNGListener -- Success test --->loginWrongEmail
+12:02:01.257 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginWrongEmail()[pri:0, instance:tests.LoginTests@65a4798f]
+12:02:01.257 INFO  tests.TestBase -- ===============================================
+12:02:01.257 INFO  tests.TestBase -- Name of method-->loginWrongPassword
+12:02:06.306 INFO  manager.TestNGListener -- Start test --->loginWrongPassword
+12:02:06.306 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginWrongPassword()[pri:0, instance:tests.LoginTests@65a4798f]
+12:02:06.306 INFO  tests.TestBase -- Test data --->email: 'dusm5@gmail.com' & password: 'Dudu123'
+12:02:06.306 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:02:06.306 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:02:06.321 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:02:06.355 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:02:06.355 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:02:06.355 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:02:06.361 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:02:06.364 INFO  manager.ListenerWD -- Before click element---> input
+12:02:06.394 INFO  manager.ListenerWD -- After click element---> input
+12:02:06.428 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:06.445 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:06.462 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:06.462 INFO  manager.HelperBase -- type in input with locator By.name("email")
+12:02:06.462 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:02:06.471 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:02:06.477 INFO  manager.ListenerWD -- Before click element---> input
+12:02:06.506 INFO  manager.ListenerWD -- After click element---> input
+12:02:06.539 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:06.555 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:06.573 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:06.573 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:02:06.578 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:02:06.583 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:02:06.609 INFO  manager.ListenerWD -- Huston we have a problem!
+12:02:06.609 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@45302e66
+12:02:06.609 INFO  manager.ListenerWD -- *************************
+12:02:06.609 INFO  manager.ListenerWD -- Method name -->alert
+12:02:06.609 INFO  manager.ListenerWD -- *************************
+12:02:06.609 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:02:06.609 INFO  manager.ListenerWD -- *************************
+12:02:07.120 INFO  tests.TestBase -- Assert check is Alert present with error text 'Wrong email or password'
+12:02:07.120 INFO  manager.TestNGListener -- Success test --->loginWrongPassword
+12:02:07.120 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginWrongPassword()[pri:0, instance:tests.LoginTests@65a4798f]
+12:02:07.120 INFO  tests.TestBase -- ===============================================
+12:02:07.120 INFO  tests.TestBase -- Name of method-->registrationExistsUser
+12:02:12.161 INFO  manager.TestNGListener -- Start test --->registrationExistsUser
+12:02:12.161 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationExistsUser()[pri:0, instance:tests.RegistrationTests@350ec41e]
+12:02:12.161 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:02:12.161 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:02:12.173 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:02:12.204 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:02:12.204 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:02:12.204 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:02:12.209 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:02:12.214 INFO  manager.ListenerWD -- Before click element---> input
+12:02:12.242 INFO  manager.ListenerWD -- After click element---> input
+12:02:12.275 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:12.290 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:12.310 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:12.310 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:02:12.315 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:02:12.320 INFO  manager.ListenerWD -- Before click element---> input
+12:02:12.355 INFO  manager.ListenerWD -- After click element---> input
+12:02:12.387 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:12.405 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:12.422 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:12.422 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Registration']
+12:02:12.432 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Registration']
+12:02:12.438 INFO  manager.ListenerWD -- Before click element---> buttonRegistration
+12:02:12.466 INFO  manager.ListenerWD -- Huston we have a problem!
+12:02:12.466 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@7dd2a5f7
+12:02:12.466 INFO  manager.ListenerWD -- *************************
+12:02:12.466 INFO  manager.ListenerWD -- Method name -->alert
+12:02:12.466 INFO  manager.ListenerWD -- *************************
+12:02:12.466 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:02:12.466 INFO  manager.ListenerWD -- *************************
+12:02:12.979 INFO  manager.TestNGListener -- Success test --->registrationExistsUser
+12:02:12.979 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationExistsUser()[pri:0, instance:tests.RegistrationTests@350ec41e]
+12:02:12.979 INFO  tests.TestBase -- ===============================================
+12:02:12.980 INFO  tests.TestBase -- Name of method-->registrationSuccess
+12:02:18.026 INFO  manager.TestNGListener -- Start test --->registrationSuccess
+12:02:18.026 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationSuccess()[pri:0, instance:tests.RegistrationTests@350ec41e]
+12:02:18.026 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:02:18.026 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:02:18.042 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:02:18.074 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:02:18.075 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:02:18.075 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:02:18.079 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:02:18.084 INFO  manager.ListenerWD -- Before click element---> input
+12:02:18.116 INFO  manager.ListenerWD -- After click element---> input
+12:02:18.147 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:18.161 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:18.182 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:18.182 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:02:18.191 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:02:18.198 INFO  manager.ListenerWD -- Before click element---> input
+12:02:18.226 INFO  manager.ListenerWD -- After click element---> input
+12:02:18.259 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:18.272 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:18.294 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:18.294 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Registration']
+12:02:18.299 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Registration']
+12:02:18.304 INFO  manager.ListenerWD -- Before click element---> buttonRegistration
+12:02:18.663 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-page_message__2qafk>h1
+12:02:18.800 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-page_message__2qafk>h1
+12:02:18.814 INFO  manager.TestNGListener -- Success test --->registrationSuccess
+12:02:18.814 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationSuccess()[pri:0, instance:tests.RegistrationTests@350ec41e]
+12:02:18.814 INFO  tests.TestBase -- ===============================================
+12:02:18.814 INFO  tests.TestBase -- Name of method-->registrationWrongEmail
+12:02:18.820 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Sign Out']
+12:02:18.825 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Sign Out']
+12:02:18.830 INFO  manager.ListenerWD -- Before click element---> buttonSign Out
+12:02:18.858 INFO  manager.TestNGListener -- Start test --->registrationWrongEmail
+12:02:18.858 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationWrongEmail()[pri:0, instance:tests.RegistrationTests@350ec41e]
+12:02:18.858 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:02:18.864 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:02:18.869 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:02:18.898 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:02:18.898 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:02:18.898 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:02:18.903 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:02:18.908 INFO  manager.ListenerWD -- Before click element---> input
+12:02:18.942 INFO  manager.ListenerWD -- After click element---> input
+12:02:18.964 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:18.985 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:19.006 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:19.006 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:02:19.010 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:02:19.017 INFO  manager.ListenerWD -- Before click element---> input
+12:02:19.048 INFO  manager.ListenerWD -- After click element---> input
+12:02:19.080 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:19.096 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:19.117 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:19.117 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Registration']
+12:02:19.122 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Registration']
+12:02:19.128 INFO  manager.ListenerWD -- Before click element---> buttonRegistration
+12:02:19.151 INFO  manager.ListenerWD -- Huston we have a problem!
+12:02:19.151 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@17554316
+12:02:19.151 INFO  manager.ListenerWD -- *************************
+12:02:19.151 INFO  manager.ListenerWD -- Method name -->alert
+12:02:19.151 INFO  manager.ListenerWD -- *************************
+12:02:19.151 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:02:19.151 INFO  manager.ListenerWD -- *************************
+12:02:19.672 INFO  manager.TestNGListener -- Success test --->registrationWrongEmail
+12:02:19.672 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationWrongEmail()[pri:0, instance:tests.RegistrationTests@350ec41e]
+12:02:19.672 INFO  tests.TestBase -- ===============================================
+12:02:19.672 INFO  tests.TestBase -- Name of method-->registrationWrongPassword
+12:02:24.724 INFO  manager.TestNGListener -- Start test --->registrationWrongPassword
+12:02:24.724 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationWrongPassword()[pri:0, instance:tests.RegistrationTests@350ec41e]
+12:02:24.724 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:02:24.724 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:02:24.735 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:02:24.768 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:02:24.768 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:02:24.768 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:02:24.773 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:02:24.777 INFO  manager.ListenerWD -- Before click element---> input
+12:02:24.805 INFO  manager.ListenerWD -- After click element---> input
+12:02:24.840 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:24.854 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:24.881 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:24.881 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:02:24.885 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:02:24.891 INFO  manager.ListenerWD -- Before click element---> input
+12:02:24.916 INFO  manager.ListenerWD -- After click element---> input
+12:02:24.951 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:24.972 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:24.993 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:24.993 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Registration']
+12:02:25.004 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Registration']
+12:02:25.011 INFO  manager.ListenerWD -- Before click element---> buttonRegistration
+12:02:25.043 INFO  manager.ListenerWD -- Huston we have a problem!
+12:02:25.043 INFO  manager.ListenerWD -- Object target -->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@35a2ea5a
+12:02:25.043 INFO  manager.ListenerWD -- *************************
+12:02:25.043 INFO  manager.ListenerWD -- Method name -->alert
+12:02:25.043 INFO  manager.ListenerWD -- *************************
+12:02:25.043 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a89234bc0e0226997fe2d9783d0f2a9, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52956/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a89234bc0e0226997fe2d9783d0f2a9
+12:02:25.043 INFO  manager.ListenerWD -- *************************
+12:02:25.563 INFO  manager.TestNGListener -- Success test --->registrationWrongPassword
+12:02:25.563 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationWrongPassword()[pri:0, instance:tests.RegistrationTests@350ec41e]
+12:02:25.563 INFO  tests.TestBase -- ===============================================
+12:02:25.563 INFO  tests.TestBase -- Name of method-->removeAllContact
+12:02:30.607 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/login']
+12:02:30.607 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/login']
+12:02:30.607 INFO  manager.ListenerWD -- Before click element---> aLOGIN
+12:02:30.653 INFO  manager.ListenerWD -- After click element---> aLOGIN
+12:02:30.653 INFO  manager.HelperBase -- open form by click on button with locator By.cssSelector("a[href='/login']") 
+12:02:30.653 INFO  manager.ListenerWD -- Before find element -->By.name: email
+12:02:30.659 INFO  manager.ListenerWD -- After find element -->By.name: email
+12:02:30.662 INFO  manager.ListenerWD -- Before click element---> input
+12:02:30.695 INFO  manager.ListenerWD -- After click element---> input
+12:02:30.725 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:30.744 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:30.760 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:30.760 INFO  manager.ListenerWD -- Before find element -->By.xpath: //input[@name='password']
+12:02:30.771 INFO  manager.ListenerWD -- After find element -->By.xpath: //input[@name='password']
+12:02:30.776 INFO  manager.ListenerWD -- Before click element---> input
+12:02:30.810 INFO  manager.ListenerWD -- After click element---> input
+12:02:30.843 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:30.856 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:30.878 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:30.878 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Login']
+12:02:30.887 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Login']
+12:02:30.892 INFO  manager.ListenerWD -- Before click element---> buttonLogin
+12:02:31.368 INFO  manager.TestNGListener -- Start test --->removeAllContact
+12:02:31.368 INFO  manager.TestNGListener -- Start test (method)--->RemoveContactTests.removeAllContact()[pri:0, instance:tests.RemoveContactTests@71984c3]
+12:02:31.395 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:31.400 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:31.400 INFO  manager.ListenerWD -- Before click element---> divHarry
+555667771554
+12:02:31.440 INFO  manager.ListenerWD -- After click element---> divHarry
+555667771554
+12:02:31.440 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:31.448 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:31.454 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:31.481 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:32.503 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:32.518 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:32.518 INFO  manager.ListenerWD -- Before click element---> divHarry
+555667771382
+12:02:32.553 INFO  manager.ListenerWD -- After click element---> divHarry
+555667771382
+12:02:32.553 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:32.559 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:32.565 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:32.589 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:33.610 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:33.610 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:33.626 INFO  manager.ListenerWD -- Before click element---> divTony
+343434343654
+12:02:33.657 INFO  manager.ListenerWD -- After click element---> divTony
+343434343654
+12:02:33.657 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:33.662 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:33.669 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:33.695 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:34.724 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:34.726 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:34.726 INFO  manager.ListenerWD -- Before click element---> divLilly
+956874523654
+12:02:34.768 INFO  manager.ListenerWD -- After click element---> divLilly
+956874523654
+12:02:34.768 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:34.774 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:34.781 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:34.810 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:35.851 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:35.857 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:35.869 INFO  manager.ListenerWD -- Before click element---> divTonyReq
+3434343431962
+12:02:35.905 INFO  manager.ListenerWD -- After click element---> divTonyReq
+3434343431962
+12:02:35.905 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:35.910 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:35.916 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:35.940 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:36.970 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:36.970 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:36.982 INFO  manager.ListenerWD -- Before click element---> divlyly
+123456789458
+12:02:37.012 INFO  manager.ListenerWD -- After click element---> divlyly
+123456789458
+12:02:37.013 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:37.016 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:37.022 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:37.046 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:38.063 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:38.063 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:38.063 INFO  manager.ListenerWD -- Before click element---> divJack
+564789124521
+12:02:38.105 INFO  manager.ListenerWD -- After click element---> divJack
+564789124521
+12:02:38.105 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:38.110 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:38.115 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:38.141 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:39.171 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:39.171 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:39.171 INFO  manager.ListenerWD -- Before click element---> divArnold
+542698754125
+12:02:39.215 INFO  manager.ListenerWD -- After click element---> divArnold
+542698754125
+12:02:39.215 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:39.220 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:39.225 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:39.249 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:40.279 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:40.279 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:40.279 INFO  manager.ListenerWD -- Before click element---> divTony
+343434343654
+12:02:40.317 INFO  manager.ListenerWD -- After click element---> divTony
+343434343654
+12:02:40.317 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:40.325 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:40.331 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:40.357 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:41.371 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:41.375 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:41.375 INFO  manager.ListenerWD -- Before click element---> divLilly
+956874523654
+12:02:41.413 INFO  manager.ListenerWD -- After click element---> divLilly
+956874523654
+12:02:41.414 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:41.419 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:41.425 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:41.449 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:42.468 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:42.477 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:42.484 INFO  manager.ListenerWD -- Before click element---> divlyly
+123456789458
+12:02:42.512 INFO  manager.ListenerWD -- After click element---> divlyly
+123456789458
+12:02:42.513 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:42.519 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:42.524 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:42.548 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:43.568 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:43.570 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:43.573 INFO  manager.ListenerWD -- Before click element---> divJack
+564789124521
+12:02:43.609 INFO  manager.ListenerWD -- After click element---> divJack
+564789124521
+12:02:43.609 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:43.614 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:43.620 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:43.645 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:44.656 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:44.656 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:44.666 INFO  manager.ListenerWD -- Before click element---> divArnold
+542698754125
+12:02:44.704 INFO  manager.ListenerWD -- After click element---> divArnold
+542698754125
+12:02:44.704 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:44.709 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:44.714 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:44.739 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:45.764 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:45.768 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:02:45.768 INFO  manager.ListenerWD -- Before click element---> divTonyReq
+3434343431929
+12:02:45.804 INFO  manager.ListenerWD -- After click element---> divTonyReq
+3434343431929
+12:02:45.804 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:02:45.810 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:02:45.814 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:02:45.840 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:02:51.910 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-page_message__2qafk>h1
+12:02:51.910 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-page_message__2qafk>h1
+12:02:51.925 INFO  manager.TestNGListener -- Success test --->removeAllContact
+12:02:51.925 INFO  manager.TestNGListener -- Start test (method)--->RemoveContactTests.removeAllContact()[pri:0, instance:tests.RemoveContactTests@71984c3]
+12:02:51.925 INFO  tests.TestBase -- ===============================================
+12:02:51.925 INFO  tests.TestBase -- Name of method-->removeFirstContact
+12:02:56.976 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:02:56.992 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:02:56.998 INFO  manager.ListenerWD -- Before click element---> aADD
+12:02:57.039 INFO  manager.ListenerWD -- After click element---> aADD
+12:02:57.040 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:02:57.047 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:02:57.054 INFO  manager.ListenerWD -- Before click element---> input
+12:02:57.088 INFO  manager.ListenerWD -- After click element---> input
+12:02:57.116 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.134 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.153 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.153 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:02:57.159 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:02:57.165 INFO  manager.ListenerWD -- Before click element---> input
+12:02:57.183 INFO  manager.ListenerWD -- After click element---> input
+12:02:57.215 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.236 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.254 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.254 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:02:57.261 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:02:57.263 INFO  manager.ListenerWD -- Before click element---> input
+12:02:57.294 INFO  manager.ListenerWD -- After click element---> input
+12:02:57.320 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.333 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.353 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.353 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:02:57.363 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:02:57.368 INFO  manager.ListenerWD -- Before click element---> input
+12:02:57.397 INFO  manager.ListenerWD -- After click element---> input
+12:02:57.416 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.437 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.457 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.457 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:02:57.464 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:02:57.470 INFO  manager.ListenerWD -- Before click element---> input
+12:02:57.498 INFO  manager.ListenerWD -- After click element---> input
+12:02:57.523 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.539 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.555 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.555 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:02:57.563 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:02:57.568 INFO  manager.ListenerWD -- Before click element---> input
+12:02:57.596 INFO  manager.ListenerWD -- After click element---> input
+12:02:57.621 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.631 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.655 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:57.655 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:02:57.661 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:02:57.666 INFO  manager.ListenerWD -- Before click element---> bSave
+12:02:57.694 INFO  manager.ListenerWD -- After click element---> bSave
+12:02:58.210 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:02:58.212 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:02:58.212 INFO  manager.ListenerWD -- Before click element---> aADD
+12:02:58.253 INFO  manager.ListenerWD -- After click element---> aADD
+12:02:58.253 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:02:58.258 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:02:58.264 INFO  manager.ListenerWD -- Before click element---> input
+12:02:58.293 INFO  manager.ListenerWD -- After click element---> input
+12:02:58.318 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.330 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.350 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.350 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:02:58.357 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:02:58.362 INFO  manager.ListenerWD -- Before click element---> input
+12:02:58.389 INFO  manager.ListenerWD -- After click element---> input
+12:02:58.415 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.427 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.449 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.449 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:02:58.453 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:02:58.459 INFO  manager.ListenerWD -- Before click element---> input
+12:02:58.488 INFO  manager.ListenerWD -- After click element---> input
+12:02:58.512 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.531 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.545 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.545 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:02:58.556 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:02:58.562 INFO  manager.ListenerWD -- Before click element---> input
+12:02:58.590 INFO  manager.ListenerWD -- After click element---> input
+12:02:58.617 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.628 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.649 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.649 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:02:58.658 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:02:58.664 INFO  manager.ListenerWD -- Before click element---> input
+12:02:58.690 INFO  manager.ListenerWD -- After click element---> input
+12:02:58.716 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.725 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.747 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.747 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:02:58.754 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:02:58.760 INFO  manager.ListenerWD -- Before click element---> input
+12:02:58.790 INFO  manager.ListenerWD -- After click element---> input
+12:02:58.816 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.829 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.848 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:58.848 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:02:58.852 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:02:58.857 INFO  manager.ListenerWD -- Before click element---> bSave
+12:02:58.882 INFO  manager.ListenerWD -- After click element---> bSave
+12:02:59.388 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: a[href='/add']
+12:02:59.388 INFO  manager.ListenerWD -- After find element -->By.cssSelector: a[href='/add']
+12:02:59.388 INFO  manager.ListenerWD -- Before click element---> aADD
+12:02:59.433 INFO  manager.ListenerWD -- After click element---> aADD
+12:02:59.433 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Name']
+12:02:59.438 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Name']
+12:02:59.442 INFO  manager.ListenerWD -- Before click element---> input
+12:02:59.473 INFO  manager.ListenerWD -- After click element---> input
+12:02:59.498 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.514 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.531 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.531 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Last Name']
+12:02:59.531 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Last Name']
+12:02:59.541 INFO  manager.ListenerWD -- Before click element---> input
+12:02:59.569 INFO  manager.ListenerWD -- After click element---> input
+12:02:59.594 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.607 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.621 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.621 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Phone']
+12:02:59.632 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Phone']
+12:02:59.637 INFO  manager.ListenerWD -- Before click element---> input
+12:02:59.663 INFO  manager.ListenerWD -- After click element---> input
+12:02:59.688 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.704 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.718 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.718 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='email']
+12:02:59.727 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='email']
+12:02:59.732 INFO  manager.ListenerWD -- Before click element---> input
+12:02:59.758 INFO  manager.ListenerWD -- After click element---> input
+12:02:59.780 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.799 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.815 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.815 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='Address']
+12:02:59.825 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='Address']
+12:02:59.830 INFO  manager.ListenerWD -- Before click element---> input
+12:02:59.857 INFO  manager.ListenerWD -- After click element---> input
+12:02:59.880 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.895 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.912 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.912 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: [placeholder='description']
+12:02:59.916 INFO  manager.ListenerWD -- After find element -->By.cssSelector: [placeholder='description']
+12:02:59.919 INFO  manager.ListenerWD -- Before click element---> input
+12:02:59.956 INFO  manager.ListenerWD -- After click element---> input
+12:02:59.986 INFO  manager.ListenerWD -- sendKeys-->input
+12:02:59.996 INFO  manager.ListenerWD -- sendKeys-->input
+12:03:00.023 INFO  manager.ListenerWD -- sendKeys-->input
+12:03:00.023 INFO  manager.ListenerWD -- Before find element -->By.xpath: //*[text()='Save']
+12:03:00.030 INFO  manager.ListenerWD -- After find element -->By.xpath: //*[text()='Save']
+12:03:00.037 INFO  manager.ListenerWD -- Before click element---> bSave
+12:03:00.067 INFO  manager.ListenerWD -- After click element---> bSave
+12:03:00.582 INFO  manager.TestNGListener -- Start test --->removeFirstContact
+12:03:00.582 INFO  manager.TestNGListener -- Start test (method)--->RemoveContactTests.removeFirstContact()[pri:0, instance:tests.RemoveContactTests@71984c3]
+12:03:00.593 INFO  manager.HelperBase -- Number o Contacts before remove is --->3
+12:03:00.593 INFO  manager.ListenerWD -- Before find element -->By.cssSelector: .contact-item_card__2SOIM
+12:03:00.597 INFO  manager.ListenerWD -- After find element -->By.cssSelector: .contact-item_card__2SOIM
+12:03:00.597 INFO  manager.ListenerWD -- Before click element---> divHarry
+555667771594
+12:03:00.623 INFO  manager.ListenerWD -- After click element---> divHarry
+555667771594
+12:03:00.623 INFO  manager.ListenerWD -- Before find element -->By.xpath: //button[text()='Remove']
+12:03:00.636 INFO  manager.ListenerWD -- After find element -->By.xpath: //button[text()='Remove']
+12:03:00.643 INFO  manager.ListenerWD -- Before click element---> buttonRemove
+12:03:00.666 INFO  manager.ListenerWD -- After click element---> buttonRemove
+12:03:01.680 INFO  manager.HelperBase -- Number of Contacts before remove is --->2
+12:03:01.680 INFO  manager.TestNGListener -- Success test --->removeFirstContact
+12:03:01.680 INFO  manager.TestNGListener -- Start test (method)--->RemoveContactTests.removeFirstContact()[pri:0, instance:tests.RemoveContactTests@71984c3]
+12:03:01.680 INFO  tests.TestBase -- ===============================================
+12:03:01.682 INFO  manager.TestNGListener -- End testing on date -->Thu Sep 04 12:03:01 IDT 2025

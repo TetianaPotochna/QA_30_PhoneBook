@@ -1,0 +1,383 @@
+11:25:05.301 INFO  manager.ApplicationManager -- All tests runs in Chrome Browser
+11:25:05.302 INFO  manager.ApplicationManager -- All tests runs in Chrome Browser
+11:25:06.474 INFO  manager.ApplicationManager -- The link --->https://telranedu.web.app/home
+11:25:06.480 INFO  manager.TestNGListener -- Start testing on date -->Thu Sep 04 11:25:06 IDT 2025
+11:25:11.233 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.249 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.249 INFO  manager.ListenerWD -- *************************
+11:25:11.249 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.249 INFO  manager.ListenerWD -- *************************
+11:25:11.249 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.249 INFO  manager.ListenerWD -- *************************
+11:25:11.296 INFO  tests.TestBase -- Name of method-->addContactTestAllFields
+11:25:11.296 INFO  manager.TestNGListener -- Start test --->addContactTestAllFields
+11:25:11.296 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFields(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.296 INFO  manager.TestNGListener -- Skipped test --->addContactTestAllFields
+11:25:11.296 INFO  tests.TestBase -- ===============================================
+11:25:11.296 INFO  tests.TestBase -- Name of method-->addContactTestAllFields
+11:25:11.296 INFO  manager.TestNGListener -- Start test --->addContactTestAllFields
+11:25:11.296 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFields(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.296 INFO  manager.TestNGListener -- Skipped test --->addContactTestAllFields
+11:25:11.296 INFO  tests.TestBase -- ===============================================
+11:25:11.309 INFO  manager.TestNGListener -- Skipped test --->addContactTestAllFieldsCSV
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestReqFields
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestReqFields
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestReqFields()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestReqFields
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestWrongAddress
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestWrongAddress
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongAddress()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestWrongAddress
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestWrongEmail
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestWrongEmail
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongEmail()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestWrongEmail
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestWrongLastName
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestWrongLastName
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongLastName()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestWrongLastName
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestWrongName
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestWrongName
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongName()[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestWrongName
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestWrongPhone
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestWrongPhone
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestWrongPhone
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestWrongPhone
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestWrongPhone
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestWrongPhone
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestWrongPhone
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestWrongPhone
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestWrongPhone
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->addContactTestWrongPhone
+11:25:11.312 INFO  manager.TestNGListener -- Start test --->addContactTestWrongPhone
+11:25:11.312 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestWrongPhone(models.Contact)[pri:0, instance:tests.AddNewContactTests@7b64240d]
+11:25:11.312 INFO  manager.TestNGListener -- Skipped test --->addContactTestWrongPhone
+11:25:11.312 INFO  tests.TestBase -- ===============================================
+11:25:11.312 INFO  tests.TestBase -- Name of method-->loginSuccess
+11:25:11.312 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.312 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.312 INFO  manager.ListenerWD -- *************************
+11:25:11.312 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.312 INFO  manager.ListenerWD -- *************************
+11:25:11.312 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.312 INFO  manager.ListenerWD -- *************************
+11:25:11.331 INFO  manager.TestNGListener -- Start test --->loginSuccess
+11:25:11.331 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.331 INFO  manager.TestNGListener -- Skipped test --->loginSuccess
+11:25:11.331 INFO  tests.TestBase -- ===============================================
+11:25:11.331 INFO  tests.TestBase -- Name of method-->loginSuccess
+11:25:11.331 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.331 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.331 INFO  manager.ListenerWD -- *************************
+11:25:11.331 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.331 INFO  manager.ListenerWD -- *************************
+11:25:11.331 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.331 INFO  manager.ListenerWD -- *************************
+11:25:11.343 INFO  manager.TestNGListener -- Start test --->loginSuccess
+11:25:11.343 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.343 INFO  manager.TestNGListener -- Skipped test --->loginSuccess
+11:25:11.343 INFO  tests.TestBase -- ===============================================
+11:25:11.343 INFO  tests.TestBase -- Name of method-->loginSuccess
+11:25:11.351 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.351 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.351 INFO  manager.ListenerWD -- *************************
+11:25:11.351 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.351 INFO  manager.ListenerWD -- *************************
+11:25:11.351 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.351 INFO  manager.ListenerWD -- *************************
+11:25:11.351 INFO  manager.TestNGListener -- Start test --->loginSuccess
+11:25:11.351 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.351 INFO  manager.TestNGListener -- Skipped test --->loginSuccess
+11:25:11.351 INFO  tests.TestBase -- ===============================================
+11:25:11.351 INFO  tests.TestBase -- Name of method-->loginSuccess
+11:25:11.357 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.359 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.359 INFO  manager.ListenerWD -- *************************
+11:25:11.359 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.359 INFO  manager.ListenerWD -- *************************
+11:25:11.359 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.359 INFO  manager.ListenerWD -- *************************
+11:25:11.363 INFO  manager.TestNGListener -- Start test --->loginSuccess
+11:25:11.363 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.363 INFO  manager.TestNGListener -- Skipped test --->loginSuccess
+11:25:11.363 INFO  tests.TestBase -- ===============================================
+11:25:11.372 INFO  tests.TestBase -- Name of method-->loginSuccessModel
+11:25:11.375 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.375 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.375 INFO  manager.ListenerWD -- *************************
+11:25:11.375 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.375 INFO  manager.ListenerWD -- *************************
+11:25:11.375 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.375 INFO  manager.ListenerWD -- *************************
+11:25:11.375 INFO  manager.TestNGListener -- Start test --->loginSuccessModel
+11:25:11.375 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.375 INFO  manager.TestNGListener -- Skipped test --->loginSuccessModel
+11:25:11.375 INFO  tests.TestBase -- ===============================================
+11:25:11.375 INFO  tests.TestBase -- Name of method-->loginSuccessModel
+11:25:11.375 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.375 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.375 INFO  manager.ListenerWD -- *************************
+11:25:11.375 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.375 INFO  manager.ListenerWD -- *************************
+11:25:11.375 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.375 INFO  manager.ListenerWD -- *************************
+11:25:11.389 INFO  manager.TestNGListener -- Start test --->loginSuccessModel
+11:25:11.389 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.389 INFO  manager.TestNGListener -- Skipped test --->loginSuccessModel
+11:25:11.389 INFO  tests.TestBase -- ===============================================
+11:25:11.391 INFO  tests.TestBase -- Name of method-->loginSuccessModel
+11:25:11.393 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.393 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.393 INFO  manager.ListenerWD -- *************************
+11:25:11.393 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.393 INFO  manager.ListenerWD -- *************************
+11:25:11.393 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.393 INFO  manager.ListenerWD -- *************************
+11:25:11.399 INFO  manager.TestNGListener -- Start test --->loginSuccessModel
+11:25:11.399 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.399 INFO  manager.TestNGListener -- Skipped test --->loginSuccessModel
+11:25:11.399 INFO  tests.TestBase -- ===============================================
+11:25:11.399 INFO  tests.TestBase -- Name of method-->loginSuccessModel
+11:25:11.399 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.399 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.399 INFO  manager.ListenerWD -- *************************
+11:25:11.399 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.399 INFO  manager.ListenerWD -- *************************
+11:25:11.399 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.399 INFO  manager.ListenerWD -- *************************
+11:25:11.409 INFO  manager.TestNGListener -- Start test --->loginSuccessModel
+11:25:11.409 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginSuccessModel(models.User)[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.409 INFO  manager.TestNGListener -- Skipped test --->loginSuccessModel
+11:25:11.409 INFO  tests.TestBase -- ===============================================
+11:25:11.411 INFO  manager.TestNGListener -- Skipped test --->loginSuccessModelDPF
+11:25:11.411 INFO  tests.TestBase -- Name of method-->loginUnregisteredUser
+11:25:11.415 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.415 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.415 INFO  manager.ListenerWD -- *************************
+11:25:11.415 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.415 INFO  manager.ListenerWD -- *************************
+11:25:11.415 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.415 INFO  manager.ListenerWD -- *************************
+11:25:11.418 INFO  manager.TestNGListener -- Start test --->loginUnregisteredUser
+11:25:11.418 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginUnregisteredUser()[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.418 INFO  manager.TestNGListener -- Skipped test --->loginUnregisteredUser
+11:25:11.418 INFO  tests.TestBase -- ===============================================
+11:25:11.418 INFO  tests.TestBase -- Name of method-->loginWrongEmail
+11:25:11.422 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.422 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.422 INFO  manager.ListenerWD -- *************************
+11:25:11.422 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.422 INFO  manager.ListenerWD -- *************************
+11:25:11.422 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.422 INFO  manager.ListenerWD -- *************************
+11:25:11.422 INFO  manager.TestNGListener -- Start test --->loginWrongEmail
+11:25:11.422 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginWrongEmail()[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.422 INFO  manager.TestNGListener -- Skipped test --->loginWrongEmail
+11:25:11.422 INFO  tests.TestBase -- ===============================================
+11:25:11.422 INFO  tests.TestBase -- Name of method-->loginWrongPassword
+11:25:11.433 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.433 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.433 INFO  manager.ListenerWD -- *************************
+11:25:11.433 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.433 INFO  manager.ListenerWD -- *************************
+11:25:11.433 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.433 INFO  manager.ListenerWD -- *************************
+11:25:11.440 INFO  manager.TestNGListener -- Start test --->loginWrongPassword
+11:25:11.440 INFO  manager.TestNGListener -- Start test (method)--->LoginTests.loginWrongPassword()[pri:0, instance:tests.LoginTests@65a4798f]
+11:25:11.440 INFO  manager.TestNGListener -- Skipped test --->loginWrongPassword
+11:25:11.440 INFO  tests.TestBase -- ===============================================
+11:25:11.442 INFO  tests.TestBase -- Name of method-->registrationExistsUser
+11:25:11.445 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.445 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.445 INFO  manager.ListenerWD -- *************************
+11:25:11.445 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.445 INFO  manager.ListenerWD -- *************************
+11:25:11.445 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.445 INFO  manager.ListenerWD -- *************************
+11:25:11.449 INFO  manager.TestNGListener -- Start test --->registrationExistsUser
+11:25:11.449 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationExistsUser()[pri:0, instance:tests.RegistrationTests@350ec41e]
+11:25:11.449 INFO  manager.TestNGListener -- Skipped test --->registrationExistsUser
+11:25:11.449 INFO  tests.TestBase -- ===============================================
+11:25:11.449 INFO  tests.TestBase -- Name of method-->registrationSuccess
+11:25:11.455 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.455 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.455 INFO  manager.ListenerWD -- *************************
+11:25:11.455 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.455 INFO  manager.ListenerWD -- *************************
+11:25:11.455 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.455 INFO  manager.ListenerWD -- *************************
+11:25:11.461 INFO  manager.TestNGListener -- Start test --->registrationSuccess
+11:25:11.461 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationSuccess()[pri:0, instance:tests.RegistrationTests@350ec41e]
+11:25:11.461 INFO  manager.TestNGListener -- Skipped test --->registrationSuccess
+11:25:11.461 INFO  tests.TestBase -- ===============================================
+11:25:11.462 INFO  tests.TestBase -- Name of method-->registrationWrongEmail
+11:25:11.465 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.465 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.465 INFO  manager.ListenerWD -- *************************
+11:25:11.465 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.465 INFO  manager.ListenerWD -- *************************
+11:25:11.465 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.465 INFO  manager.ListenerWD -- *************************
+11:25:11.469 INFO  manager.TestNGListener -- Start test --->registrationWrongEmail
+11:25:11.469 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationWrongEmail()[pri:0, instance:tests.RegistrationTests@350ec41e]
+11:25:11.469 INFO  manager.TestNGListener -- Skipped test --->registrationWrongEmail
+11:25:11.469 INFO  tests.TestBase -- ===============================================
+11:25:11.469 INFO  tests.TestBase -- Name of method-->registrationWrongPassword
+11:25:11.471 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.471 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.471 INFO  manager.ListenerWD -- *************************
+11:25:11.471 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.471 INFO  manager.ListenerWD -- *************************
+11:25:11.471 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.471 INFO  manager.ListenerWD -- *************************
+11:25:11.478 INFO  manager.TestNGListener -- Start test --->registrationWrongPassword
+11:25:11.478 INFO  manager.TestNGListener -- Start test (method)--->RegistrationTests.registrationWrongPassword()[pri:0, instance:tests.RegistrationTests@350ec41e]
+11:25:11.478 INFO  manager.TestNGListener -- Skipped test --->registrationWrongPassword
+11:25:11.478 INFO  tests.TestBase -- ===============================================
+11:25:11.478 INFO  tests.TestBase -- Name of method-->removeAllContact
+11:25:11.480 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.480 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.480 INFO  manager.ListenerWD -- *************************
+11:25:11.480 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.480 INFO  manager.ListenerWD -- *************************
+11:25:11.480 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.480 INFO  manager.ListenerWD -- *************************
+11:25:11.485 INFO  manager.TestNGListener -- Start test --->removeAllContact
+11:25:11.485 INFO  manager.TestNGListener -- Start test (method)--->RemoveContactTests.removeAllContact()[pri:0, instance:tests.RemoveContactTests@71984c3]
+11:25:11.485 INFO  manager.TestNGListener -- Skipped test --->removeAllContact
+11:25:11.485 INFO  tests.TestBase -- ===============================================
+11:25:11.485 INFO  tests.TestBase -- Name of method-->removeFirstContact
+11:25:11.485 INFO  manager.ListenerWD -- Huston we have a problem!
+11:25:11.485 INFO  manager.ListenerWD -- Object target -->ChromeDriver: chrome on windows (f0322485a355fc8ed4d2f6210114ac18)
+11:25:11.485 INFO  manager.ListenerWD -- *************************
+11:25:11.485 INFO  manager.ListenerWD -- Method name -->findElements
+11:25:11.485 INFO  manager.ListenerWD -- *************************
+11:25:11.485 INFO  manager.ListenerWD -- InvocationTargetExceptionorg.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f0322485a355fc8ed4d2f6210114ac18, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53728/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0322485a355fc8ed4d2f6210114ac18
+11:25:11.485 INFO  manager.ListenerWD -- *************************
+11:25:11.485 INFO  manager.TestNGListener -- Start test --->removeFirstContact
+11:25:11.485 INFO  manager.TestNGListener -- Start test (method)--->RemoveContactTests.removeFirstContact()[pri:0, instance:tests.RemoveContactTests@71984c3]
+11:25:11.485 INFO  manager.TestNGListener -- Skipped test --->removeFirstContact
+11:25:11.485 INFO  tests.TestBase -- ===============================================
+11:25:11.485 INFO  manager.TestNGListener -- End testing on date -->Thu Sep 04 11:25:11 IDT 2025
