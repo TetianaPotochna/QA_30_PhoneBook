@@ -1,0 +1,17 @@
+20:08:55.111 INFO  manager.TestNGListener -- Start testing on date -->Sun Sep 21 20:08:55 IDT 2025
+20:08:55.143 INFO  tests.TestBase -- Name of method-->addContactTestAllFieldsCSV
+20:08:55.143 INFO  manager.TestNGListener -- Start test --->addContactTestAllFieldsCSV
+20:08:55.143 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@55e8ec2f]
+20:08:55.143 INFO  manager.TestNGListener -- Skipped test --->addContactTestAllFieldsCSV
+20:08:55.149 INFO  tests.TestBase -- ===============================================
+20:08:55.150 INFO  tests.TestBase -- Name of method-->addContactTestAllFieldsCSV
+20:08:55.150 INFO  manager.TestNGListener -- Start test --->addContactTestAllFieldsCSV
+20:08:55.150 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@55e8ec2f]
+20:08:55.150 INFO  manager.TestNGListener -- Skipped test --->addContactTestAllFieldsCSV
+20:08:55.150 INFO  tests.TestBase -- ===============================================
+20:08:55.150 INFO  tests.TestBase -- Name of method-->addContactTestAllFieldsCSV
+20:08:55.150 INFO  manager.TestNGListener -- Start test --->addContactTestAllFieldsCSV
+20:08:55.150 INFO  manager.TestNGListener -- Start test (method)--->AddNewContactTests.addContactTestAllFieldsCSV(models.Contact)[pri:0, instance:tests.AddNewContactTests@55e8ec2f]
+20:08:55.150 INFO  manager.TestNGListener -- Skipped test --->addContactTestAllFieldsCSV
+20:08:55.150 INFO  tests.TestBase -- ===============================================
+20:08:55.154 INFO  manager.TestNGListener -- End testing on date -->Sun Sep 21 20:08:55 IDT 2025
